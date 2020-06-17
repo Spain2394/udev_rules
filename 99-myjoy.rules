@@ -1,0 +1,1 @@
+KERNEL=="js*", SUBSYSTEMS=="input", DRIVERS=="", ATTRS{enabled}=="0", ATTRS{name}=="Logitech Gamepad F710", MODE="0777", SYMLINK+="logitech"

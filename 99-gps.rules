@@ -1,0 +1,1 @@
+KERNELS=="ttyUSB[0-9]*", SUBSYSTEMS=="usb-serial", DRIVERS=="pl2303", ATTRS{port_number}=="0", MODE="0777", SYMLINK+="gps"
