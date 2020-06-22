@@ -1,3 +1,3 @@
 # udev_rules
-udev rules for lt2 robot, so I don't have to remember the format
+udev rules for contains rules for initializing ports for various devices. Mainly, so I don't have to remember the format
 
